@@ -13,3 +13,5 @@ in the third file..
 =======
 in the third file..
 >>>>>>> Stashed changes
+
+Connecting local and github repository
