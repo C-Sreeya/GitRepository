@@ -1,10 +1,15 @@
 this is my third git file
 new line is added in third file
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Again checking the diff command - now to
 see the difference in files in the working area
 commiting 2nd file alone 
 and keeping the 3rd file aside using stash command
+=======
+making changes to file to see stash
+again making changes
+>>>>>>> Stashed changes
 =======
 making changes to file to see stash
 again making changes

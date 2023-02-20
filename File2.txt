@@ -4,8 +4,12 @@ this is created to know how to add multiple files to the
 staging phase at a time
 This file has to be committed while doing making changes 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 in the third file..
 making changes in 2nd file...
+=======
+in the third file..
+>>>>>>> Stashed changes
 =======
 in the third file..
 >>>>>>> Stashed changes
