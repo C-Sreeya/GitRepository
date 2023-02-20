@@ -3,3 +3,4 @@ Now lets first add some more lined
 and lets check the status of this file
 making all files to go to the staging area
 making changes..
+Editing from repository..
