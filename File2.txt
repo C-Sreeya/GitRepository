@@ -2,3 +2,6 @@ this is the second git file
 this file is modified
 this is created to know how to add multiple files to the
 staging phase at a time
+This file has to be committed while doing making changes 
+in the third file..
+modifying...
