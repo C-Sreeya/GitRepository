@@ -3,6 +3,7 @@ this file is modified
 this is created to know how to add multiple files to the
 staging phase at a time
 This file has to be committed while doing making changes 
+<<<<<<< HEAD
 
 in the third file..
 
@@ -15,4 +16,6 @@ in the 2nd file..
 Connecting local and github repository
 
 Change happened by the 2nd person
+
+Change done by the 2nd person
 
