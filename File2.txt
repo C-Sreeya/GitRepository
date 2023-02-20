@@ -1,3 +1,4 @@
 this is the second git file
+this file is modified
 this is created to know how to add multiple files to the
 staging phase at a time
