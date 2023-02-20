@@ -2,5 +2,5 @@ this is my third git file
 new line is added in third file
 Again checking the diff command - now to
 see the difference in files in the working area
-using stash command for commiting 2nd file and keeping the 
-3rd file aside
+commiting 2nd file alone 
+and keeping the 3rd file aside using stash command
