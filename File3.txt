@@ -1,1 +1,4 @@
 this is my third git file
+new line is added in third file
+Again checking the diff command - now to
+see the difference in files in the working area
